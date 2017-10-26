@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a8faf76e-3972-4167-a44a-c65eb5cc4718" name="djangos" url="http://172.20.104.97">
+        <fileTransfer host="172.20.104.97" port="22" rootFolder="/usr/local/pythonproject/django_web" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
